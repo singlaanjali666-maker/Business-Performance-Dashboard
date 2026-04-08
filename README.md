@@ -11,7 +11,8 @@ This project presents a Power BI dashboard that analyzes:
 
 ## Dashboard Preview
 ![Dashboard](dashboard.png)
-<img width="1539" height="862" alt="Screenshot 2026-04-07 154412" src="https://github.com/user-attachments/assets/f82d44ea-41c9-4d04-a8fe-0415d9ec99ce" />
+<img width="1594" height="906" alt="image" src="https://github.com/user-attachments/assets/a6e386c2-71a9-46ce-b95d-bae62fd1ffd8" />
+
 
 ## Key Metrics
 - Total Revenue: 535M
